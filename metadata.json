@@ -1,0 +1,6 @@
+{
+  "name": "ABSEN KIKAV 2",
+  "description": "Aplikasi Absen Apel Pengecekan Personel KIKAV 2/JRTR Kodam XXVI/Mataram",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
